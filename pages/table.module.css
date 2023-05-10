@@ -1,0 +1,20 @@
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+    text-align: center;
+}  
+.thead {
+    font-weight: bold;
+    background: linear-gradient(45deg, #4fb1a1, #326199);
+    color: #ffffff;
+    text-transform: none;
+    padding: 10px;
+    text-align: center;
+}
+.tbody {
+    color: #353740;
+    text-transform: capitalize;
+    padding: 10px;
+    text-align: center;
+}
