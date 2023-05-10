@@ -45,5 +45,5 @@ Secondly, start runnig the app
 
 You should now be able to access the app at [http://localhost:3000](http://localhost:3000)
 
-<img width="1440" alt="Screenshot 2023-05-10 at 21 44 40" src="https://github.com/kudryanasteysha/course-project-2023/assets/91348165/9d6dcda0-ce88-44f2-a19e-8d555e59c57f">
+<img width="1440" alt="Screenshot 2023-05-10 at 21 44 40" src="https://github.com/kudryanasteysha/course-project-2023/assets/91348165/065abf0a-4cd1-452d-aab1-7aedef20bd3d">
 
